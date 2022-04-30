@@ -6,7 +6,11 @@ android {
     compileSdk 32
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.bsef19a007.bsef19a007_counter_mc"
+=======
+        applicationId "com.bsef19a007.bsef19a007_counter"
+>>>>>>> b2abcee (file committed)
         minSdk 21
         targetSdk 32
         versionCode 1

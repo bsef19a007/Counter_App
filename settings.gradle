@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "BSEF19A007_Counter_MC"
+=======
+rootProject.name = "BSEF19A007_Counter"
+>>>>>>> b2abcee (file committed)
 include ':app'

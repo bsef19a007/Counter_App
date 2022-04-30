@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">BSEF19A007_Counter_MC</string>
 
     <string name="increase">+</string>
@@ -6,3 +7,11 @@
     <string name="decrease">-</string>
     <string name="textViewDefault">0</string>
 </resources>
+=======
+    <string name="app_name">BSEF19A007_Counter</string>
+    <string name="text">-</string>
+    <string name="reset">Reset</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+</resources>
+>>>>>>> b2abcee (file committed)

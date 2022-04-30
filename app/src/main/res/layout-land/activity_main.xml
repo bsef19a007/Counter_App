@@ -6,76 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
-    <TableLayout
-        android:id="@+id/tableLayout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp"
-        android:layout_marginBottom="10dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView">
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:id="@+id/increase"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/increase"
-                android:textSize="30sp"
-                android:textStyle="bold" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:id="@+id/reset"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10sp"
-                android:text="@string/reset"
-                android:textSize="30sp"
-                android:textStyle="bold" />
-        </TableRow>
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <Button
-                android:id="@+id/decrease"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/decrease"
-                android:textSize="30sp"
-                android:textStyle="bold"
-                android:layout_marginTop="10sp"/>
-        </TableRow>
-
-    </TableLayout>
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="140dp"
-        android:layout_marginBottom="140dp"
-        android:text="@string/textViewDefault"
-        android:textSize="120sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-=======
     <Button
         android:id="@+id/rollButton"
         android:layout_width="0dp"
@@ -149,5 +79,4 @@
         app:layout_constraintStart_toEndOf="@+id/rollButton"
         app:layout_constraintTop_toBottomOf="@+id/divider"
         tools:ignore="TextContrastCheck" />
->>>>>>> b2abcee (file committed)
 </androidx.constraintlayout.widget.ConstraintLayout>
