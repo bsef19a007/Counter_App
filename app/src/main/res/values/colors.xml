@@ -7,5 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="purpleDarker">#FF572660</color>
+=======
+>>>>>>> 9791dfcd5784a9143da0b4537c91a6c259071857
 </resources>

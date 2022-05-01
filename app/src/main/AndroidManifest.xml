@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.bsef19a007.counterapp">
+=======
+<<<<<<< HEAD
+    package="com.bsef19a007.bsef19a007_counter_mc">
+=======
+    package="com.bsef19a007.bsef19a007_counter">
+>>>>>>> b2abcee (file committed)
+>>>>>>> 9791dfcd5784a9143da0b4537c91a6c259071857
 
     <application
         android:allowBackup="true"
@@ -8,7 +16,15 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.CounterApp">
+=======
+<<<<<<< HEAD
+        android:theme="@style/Theme.BSEF19A007_Counter_MC">
+=======
+        android:theme="@style/Theme.BSEF19A007_Counter">
+>>>>>>> b2abcee (file committed)
+>>>>>>> 9791dfcd5784a9143da0b4537c91a6c259071857
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="counterTxt" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="btnReset" type="id" />
+</resources>

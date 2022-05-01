@@ -1,6 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.CounterApp" parent="Theme.AppCompat.Light.NoActionBar">
+=======
+<<<<<<< HEAD
+    <style name="Theme.BSEF19A007_Counter_MC" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+=======
+    <style name="Theme.BSEF19A007_Counter" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+>>>>>>> b2abcee (file committed)
+>>>>>>> 9791dfcd5784a9143da0b4537c91a6c259071857
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

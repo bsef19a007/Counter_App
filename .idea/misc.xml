@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/drawable/app_bg.xml" value="0.139" />
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/layout-land/activity_main.xml" value="0.1693121693121693" />
         <entry key="..\:/Java_AS_MC/CounterApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+=======
+<<<<<<< HEAD
+        <entry key="..\:/Java AS MC/BSEF19A007_Counter_MC/app/src/main/res/layout/activity_main.xml" value="0.2" />
+=======
+        <entry key="..\:/Counter/app/src/main/res/drawable/app_bg.xml" value="0.2025" />
+        <entry key="..\:/Counter/app/src/main/res/layout-land/activity_main.xml" value="0.1693121693121693" />
+        <entry key="..\:/Counter/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Java AS MC/Counter/app/src/main/res/layout/activity_main.xml" value="0.16" />
+>>>>>>> b2abcee (file committed)
+>>>>>>> 9791dfcd5784a9143da0b4537c91a6c259071857
       </map>
     </option>
   </component>
